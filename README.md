@@ -1,5 +1,5 @@
-# FUTURE_DS_03
-# 🎓 College Event Feedback Analysis – Streamlit Dashboard
+
+## 🎓 College Event Feedback Analysis – Streamlit Dashboard
 
 This project is an **interactive Streamlit dashboard** developed as part of an internship, aimed at analyzing **student feedback** collected on various aspects of college events such as teaching, course content, examinations, lab work, library facilities, and extracurricular activities.
 
